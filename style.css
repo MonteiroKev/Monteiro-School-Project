@@ -30,3 +30,11 @@
 #boxresultadoNota .col-md-6 {
     font-size: 24px;
 }
+
+.errorInput {
+    border: 1px solid red !important;
+}
+
+.okInput {
+    border: 1px solid green !important;
+}
