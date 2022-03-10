@@ -1,3 +1,4 @@
+
 const button = document.getElementById("button");
 const nomeAluno = document.getElementById("nomealuno");
 const nome = document.getElementById("nome");
@@ -29,3 +30,6 @@ button.addEventListener("click", (event) => {
   }
   console.log(somaDasNotas);
 });
+
+alert("Seja bem vindo")
+
