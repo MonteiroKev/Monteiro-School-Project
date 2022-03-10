@@ -23,7 +23,7 @@ button.addEventListener("click", (event) => {
         alert("Sua nota deve menor que 10");
         return false;
       }
-      arrayNotas.push(notarecebida); // dar para empurar la
+      arrayNotas.push(notarecebida);
       somaDasNotas += notarecebida;
     }
   }
