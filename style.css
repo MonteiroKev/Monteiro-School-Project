@@ -1,0 +1,32 @@
+#verde, #azul {
+    min-height: 300px;
+}
+
+#verde {
+    background-color: #00f198;
+}
+
+#azul {
+    background-color: #7919ef;
+}
+
+.btn-success {
+    width: 100%;
+}
+
+#boxresultadoNota {
+
+    background-color: #00f198;
+    min-height: 200px;
+
+}
+
+#boxresultadoNota h2 {
+    margin-top: 1rem;
+    font-weight: bolder;
+
+}
+
+#boxresultadoNota .col-md-6 {
+    font-size: 24px;
+}
