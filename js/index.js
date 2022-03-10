@@ -1,3 +1,4 @@
+
 const button = document.getElementById("button");
 const nomeAluno = document.getElementById("nomealuno");
 const nome = document.getElementById("nome");
@@ -31,4 +32,7 @@ button.addEventListener("click", (event) => {
 });
 
 
+
+
+alert("Seja bem vindo")
 
