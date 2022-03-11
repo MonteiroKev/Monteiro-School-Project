@@ -1,4 +1,4 @@
-
+ 
 const button = document.getElementById("button");
 const nomeAluno = document.getElementById("nomealuno");
 const nome = document.getElementById("nome");
